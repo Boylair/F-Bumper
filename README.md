@@ -6,6 +6,33 @@
 
 Discord // Disboard auto bumper selfbot. Works with slash commands :)
 
+
+
+## Installation
+
+### 1. Download Python:
+
+```
+Make sure you have Python installed and it is added to your path.
+```
+### 1. Download The Files:
+
+```
+Once you've downloaded the files extract the folder so it's no longer a .zip file.
+```
+### 2. Configurable Options:
+
+```
+Assign values to the variables in the .env file.
+```
+### 3. Open The start.bat File:
+
+```
+You dont need to install any modules opening this will install them for you.
+```
+
+
+
 ## Disclaimer 
  The automation of User Discord accounts also known as self-bots is a violation of Discord Terms of Service & Community guidelines and will result in your account(s) being terminated. Discretion is adviced. I will not be responsible for your actions. Read about Discord [Terms Of service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
  
