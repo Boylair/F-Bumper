@@ -1,4 +1,9 @@
-# F-Bumper
+<h1 align="center">
+  F-Bumper
+</h1>
+
+
+
 Discord // Disboard auto bumper selfbot. Works with slash commands :)
 
 ## Disclaimer 
