@@ -25,11 +25,37 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 Assign values to the variables in the .env file.
 ```
+```bash
+token=The token comes here
+bump_channel=Here comes the channel where the slash commands are sent by the selfbot
+
+
+Example:
+
+token=Njk4NDU0MzYyMDQ0MTY0ODE1.AHFQ0L.6Lno4LPBLmksXWj8JrSU2kpTyce
+bump_channel=1050156835761573938
+```
+
+
 ### 3. Open The start.bat File:
 
 ```
 You dont need to install any modules opening this will install them for you.
 ```
+## Configuration
+
+| Name | Type | Description | 
+| ---  | ---  | ---         |
+| `token` | Account token | The token of your discord account.
+| `bump_channel` | Channel ID | Channel ID where you want to send slash command.
+
+
+
+## Screenshots
+
+![Terminal screenshot](https://am4pap001files.storage.live.com/y4m9YTUoH5YH426uo_uVinZPBIKnbSSTa9wN12N_gC8FJfx0P3U6T3SgZ1vNTpOc6HUn_5r1IpBoVdV8PvjCuPY2emq3nM6KB5SoJ9M0HLCcrC-baDajeEwLfszPPN3gMEhFM5p_PRHkcM21k7eOxWH1iPmHBVLJ-CbfTXvYsMlfrVv1g_rT8Mdd6LJuDuIP4de?encodeFailures=1&width=1482&height=793)
+
+
 
 
 
@@ -41,18 +67,5 @@ Discord F-Bumper was written as a proof of concept that Discord accounts can be 
 
 
 
-
-
-## Screenshots
-
-![Terminal screenshot](https://am4pap001files.storage.live.com/y4m9YTUoH5YH426uo_uVinZPBIKnbSSTa9wN12N_gC8FJfx0P3U6T3SgZ1vNTpOc6HUn_5r1IpBoVdV8PvjCuPY2emq3nM6KB5SoJ9M0HLCcrC-baDajeEwLfszPPN3gMEhFM5p_PRHkcM21k7eOxWH1iPmHBVLJ-CbfTXvYsMlfrVv1g_rT8Mdd6LJuDuIP4de?encodeFailures=1&width=1482&height=793)
-
-
-## Configuration
-
-| Name | Type | Description | 
-| ---  | ---  | ---         |
-| `token` | Account token | The token of your discord account.
-| `bump_channel` | Channel ID | Channel ID where you want to send slash command.
 
 
