@@ -11,7 +11,7 @@ Discord F-Bumper was written as a proof of concept that Discord accounts can be 
 
 | Name | Type | Description | 
 | ---  | ---  | ---         |
-| `token` | DirectMessage | The token of your discord account
+| `token` | Account token | The token of your discord account
 | `bump_channel` | Channel ID | Channel ID where you want to send slash command.
 
 
