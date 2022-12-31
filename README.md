@@ -7,6 +7,15 @@ Discord // Disboard auto bumper selfbot. Works with slash commands :)
 Discord F-Bumper was written as a proof of concept that Discord accounts can be automated and can perform actions beyond the scope of regular Discord Users like sending Embeds so that Discord can make changes. The F-Bumper author are released of any liabilities which your usage may entail. 
 
 
+
+
+
+
+## Screenshots
+
+![Terminal screenshot](https://1drv.ms/u/s!AqHNhoeBsE7EkTwUq4_eQlfS9tb4?e=lby2sE)
+
+
 ## Configuration
 
 | Name | Type | Description | 
