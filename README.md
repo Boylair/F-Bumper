@@ -25,16 +25,6 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 Assign values to the variables in the .env file.
 ```
-```bash
-token=The token comes here
-bump_channel=Here comes the channel where the slash commands are sent by the selfbot
-
-
-Example:
-
-token=Njk4NDU0MzYyMDQ0MTY0ODE1.AHFQ0L.6Lno4LPBLmksXWj8JrSU2kpTyce
-bump_channel=1050156835761573938
-```
 
 
 ### 3. Open The start.bat File:
