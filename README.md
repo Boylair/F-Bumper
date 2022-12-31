@@ -13,7 +13,7 @@ Discord F-Bumper was written as a proof of concept that Discord accounts can be 
 
 ## Screenshots
 
-![Terminal screenshot](https://1drv.ms/u/s!AqHNhoeBsE7EkTwUq4_eQlfS9tb4?e=lby2sE)
+![Terminal screenshot](https://am4pap001files.storage.live.com/y4m9YTUoH5YH426uo_uVinZPBIKnbSSTa9wN12N_gC8FJfx0P3U6T3SgZ1vNTpOc6HUn_5r1IpBoVdV8PvjCuPY2emq3nM6KB5SoJ9M0HLCcrC-baDajeEwLfszPPN3gMEhFM5p_PRHkcM21k7eOxWH1iPmHBVLJ-CbfTXvYsMlfrVv1g_rT8Mdd6LJuDuIP4de?encodeFailures=1&width=1482&height=793)
 
 
 ## Configuration
