@@ -10,10 +10,10 @@ Discord // Disboard auto bumper selfbot. Works with slash commands :)
 
 ## Installation
 
-### 1. Download Python:
+### 1. Download Nodejs:
 
 ```
-Make sure you have Python installed and it is added to your path.
+Make sure you downloaded the lts version.
 ```
 ### 1. Download The Files:
 
