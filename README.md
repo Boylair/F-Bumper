@@ -13,7 +13,7 @@ Discord // Disboard auto bumper selfbot. Works with slash commands :)
 ### 1. Download Nodejs:
 
 ```
-Make sure you downloaded the lts version.
+Make sure you downloaded the LTS version.
 ```
 ### 1. Download The Files:
 
@@ -30,7 +30,7 @@ Assign values to the variables in the .env file.
 ### 3. Open The start.bat File:
 
 ```
-You dont need to install any modules opening this will install them for you.
+You dont need to install any packages opening this will install them for you.
 ```
 ## Configuration
 
