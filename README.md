@@ -27,11 +27,19 @@ Assign values to the variables in the .env file.
 ```
 
 
-### 3. Open The start.bat File:
+### 3. Open The install.bat File:
 
 ```
 You dont need to install any packages opening this will install them for you.
 ```
+### 4. Open The start.bat File in the src folder:
+
+```
+This will start the F-Bumper selfbot.
+```
+
+
+
 ## Configuration
 
 | Name | Type | Description | 
