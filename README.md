@@ -51,7 +51,7 @@ This will start the F-Bumper selfbot.
 
 ## Screenshots
 
-![Terminal screenshot]https://i.imgur.com/dGs9NPr.png)
+![Terminal screenshot](https://i.imgur.com/dGs9NPr.png)
 
 
 
